@@ -100,5 +100,5 @@ close_rectangle_2.addEventListener("click", (event) => {
 });
 
 home_button.addEventListener("click", (event) => {
-  window.location.href = "index.html";
+  window.location.href = "../Main Page/index.html";
 });
